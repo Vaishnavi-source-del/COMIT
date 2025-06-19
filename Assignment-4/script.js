@@ -11,15 +11,7 @@ Boolean let bool=true
 Undefined let age;
 Null let name=null;
 Symbol let sym=Symbol("id");
-Object  The object data type can contain both built-in objects, and user defined objects:
 
-Built-in object types can be:
-
-objects, arrays, dates, maps, sets, intarrays, floatarrays, promises 
-
-const obj={id:1,name:"John"} 
-const colour = ["Yellow", "Pink", "Blue", "Green"];
-const date= new Date("2025-06-18")
 
 When should you use an object ?
 When we need to store data with key-value pairs. Objects are great for representing complex entities with multiple attributes.
